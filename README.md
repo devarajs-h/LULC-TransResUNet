@@ -16,14 +16,7 @@ The proposed **Trans-ResUNet** integrates:
 - Statistical significance (p-values)
 - Uncertainty estimation (MC Dropout)
 
-## 📊 Results
-| Model | mIoU | F1 |
-|------|------|----|
-| UNet | 0.xx | 0.xx |
-| DeepLab | 0.xx | 0.xx |
-| ViT | 0.xx | 0.xx |
-| Swin | 0.xx | 0.xx |
-| **TransResUNet** | **0.xx** | **0.xx** |
+
 
 ## 🧪 How to Run
 
